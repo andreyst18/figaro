@@ -28,10 +28,6 @@
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import 'swiper/css';
 
-
-
-
-
 const advantages = ref([
   {
     icon: '../assets/images/adv1.svg',
