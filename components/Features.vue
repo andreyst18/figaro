@@ -118,6 +118,7 @@ const addFeature = () => {
       font-weight: 400;
       line-height: 24px;
       margin-bottom: 64px;
+      cursor: pointer;
     }
   }
 
